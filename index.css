@@ -2,10 +2,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: bisque;
 }
 
 #github-container {
   display: flex;
+  background-color: aquamarine;
 }
 
 ul {
